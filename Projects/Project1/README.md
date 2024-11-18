@@ -11,7 +11,7 @@ The primary dataset, `insurance.csv`, includes various features on insured indiv
 | Column     | Data Type | Description                                                                  |
 |------------|-----------|------------------------------------------------------------------------------|
 | `age`      | int       | Age of the primary beneficiary.                                              |
-| `sex`      | object    | Gender of the insurance contractor (male or female).                         |
+| `gender`   | object    | Gender of the insurance contractor (male or female).                         |
 | `bmi`      | float     | Body mass index, a standard measure of body fat based on height and weight.  |
 | `children` | int       | Number of dependents covered by the insurance plan.                          |
 | `smoker`   | object    | Indicates if the beneficiary smokes (yes or no).                             |
